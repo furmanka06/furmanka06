@@ -2,7 +2,7 @@
 - 👀 I’m interested in web & mobile development.
 - 🌱 I’m currently learning  basic language
 - 😄 Pronouns: Joanna
-- ⚡ Fun fact: im polishe
+- ⚡ Fun fact: i am polish
 
 <!---
 furmanka06/furmanka06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
